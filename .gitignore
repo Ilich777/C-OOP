@@ -1,0 +1,5 @@
+.vs
+test.sln
+test/bin
+test/obj
+test.csproj
